@@ -1,0 +1,4 @@
+baseURL = 'https://pawlikmichal25.github.io/'
+languageCode = 'en-us'
+title = 'Michał Pawlik'
+theme = "DoIt"
