@@ -1,0 +1,10 @@
+# Menu config
+
+[[main]]
+identifier = "contact"
+pre = ""
+post = ""
+name = "Contact"
+url = "/contact/"
+title = ""
+weight = 8
