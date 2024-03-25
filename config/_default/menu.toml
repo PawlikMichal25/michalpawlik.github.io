@@ -1,6 +1,15 @@
 # Menu config
 
 [[main]]
+identifier = "bodylanguage"
+pre = ""
+post = ""
+name = "Body Language"
+url = "/bodylanguage/"
+title = ""
+weight = 8
+
+[[main]]
 identifier = "contact"
 pre = ""
 post = ""
